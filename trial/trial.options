@@ -1,0 +1,7 @@
+# Comments are supported
+DEVICE_HOSTNAME=trial
+# All variables will be translated to lower case and made available to hooks
+device_user1=trial
+device_user1pass=password
+# Variables set in the .cfg file can be overridden
+IMAGE_NAME=trial
