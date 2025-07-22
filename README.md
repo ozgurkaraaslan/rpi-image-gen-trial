@@ -1,6 +1,6 @@
 # rpi-image-gen-trial
 
-This repository was created with the help of the <https://github.com/jonnymacs/rpi-image-gen-example> repository. I have added some customizations and minor updates.
+This repository was created with the help of the <https://github.com/jonnymacs/rpi-image-gen-example> repository. Also added some customizations and updates to able to run using current [rpi-image-gen](https://github.com/raspberrypi/rpi-image-gen/tree/master) version.
 
 ## Running
 
