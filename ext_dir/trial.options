@@ -1,6 +1,6 @@
 DEVICE_HOSTNAME=trial
-device_user1=trial
+device_user1=username
 device_user1pass=password
 
 # Variables set in the .cfg file can be overridden
-IMAGE_NAME=trial
+IMAGE_NAME=my-custom-image

@@ -6,4 +6,4 @@ services:
     tty: true
     image: rpi-imagegen:latest
     volumes:
-      - ./trial:/home/imagegen/trial
+      - ./ext_dir:/home/imagegen/ext_dir

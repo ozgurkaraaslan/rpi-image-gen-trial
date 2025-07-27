@@ -1,0 +1,4 @@
+# Build defaults for Pi5 class devices
+class=pi5
+storage_type=sd
+ssh_user1=y

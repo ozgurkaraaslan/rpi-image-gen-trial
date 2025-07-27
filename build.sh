@@ -5,10 +5,10 @@ set -eu
 BUILD_ID=${RANDOM}
 RPI_BUILD_SVC="rpi_imagegen"
 RPI_BUILD_USER="imagegen"
-RPI_CUSTOMIZATIONS_DIR="trial"
-RPI_CONFIG="trial"
+RPI_CUSTOMIZATIONS_DIR="ext_dir"
+RPI_CONFIG="my-config"
 RPI_OPTIONS="trial"
-RPI_IMAGE_NAME="trial"
+RPI_IMAGE_NAME="my-custom-image"
 
 ensure_cleanup() {
   echo "Cleanup containers..."
